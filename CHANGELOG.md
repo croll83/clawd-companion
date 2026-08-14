@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.103.0](https://github.com/croll83/companion/compare/the-companion-v0.102.0...the-companion-v0.103.0) (2026-08-14)
+
+
+### Features
+
+* **models:** add Claude Opus 5 (`claude-opus-5`) to the session model list, listed after Fable 5, with full low–max effort support
+
 ## [0.102.0](https://github.com/croll83/companion/compare/the-companion-v0.101.0...the-companion-v0.102.0) (2026-07-02)
 
 

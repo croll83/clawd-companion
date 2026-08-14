@@ -27,6 +27,7 @@ export const DEFAULT_EFFORT: EffortLevel = "high";
  */
 const MODEL_EFFORT_LEVELS: Record<string, EffortLevel[]> = {
   "claude-fable-5": ["low", "medium", "high", "xhigh", "max"],
+  "claude-opus-5": ["low", "medium", "high", "xhigh", "max"],
   "claude-opus-4-8": ["low", "medium", "high", "xhigh", "max"],
   "claude-opus-4-7": ["low", "medium", "high", "xhigh", "max"],
   // Opus 4.6 supports `max` but not `xhigh` (matches CLI gating).
